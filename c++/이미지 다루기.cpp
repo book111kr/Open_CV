@@ -20,7 +20,7 @@ int main()
 	}
 
 	namedWindow("Original", WINDOW_AUTOSIZE);  //WINDOW_AUTOSIZE : 윈도우 크기에 맞춰 이미지 불러옴
-											   //WINDOW_NORMAL : 이미지를 사용자가 직접 조정 가능
+						   //WINDOW_NORMAL : 이미지를 사용자가 직접 조정 가능
 	//namedWindow("Original", WND_PROP_FULLSCREEN);
 	//SetWindowProperty("Original", WND_PROP_FULLSCREEN, WINDOW_FULLSCREEN); : 전체화면으로 불러옴
 	imshow("Original", image);                 //트랙바를 붙이는 경우를 제외하고 named함수 생략가능
