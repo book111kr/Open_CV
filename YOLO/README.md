@@ -1,10 +1,11 @@
 # traffic 데이터를 활용한 영상 인식
 
-##목표
-> [직진, (비보호)좌회전, 우회전] 가능한 상황인지 판단해서 Boolean List로 반환
-> e.g.) [True, False, True]
+## 목표
+>  [직진, (비보호)좌회전, 우회전] 가능한 상황인지 판단해서 Boolean List로 반환
 
-교차로 로드뷰로 사진 데이터를 수집해서 Label
+>  e.g.) [True, False, True]
+
+## 교차로 로드뷰로 사진 데이터를 수집해서 Label
 - 차량 신호등 (traffic_light1)
 - 차량 초록불 (green_light1)
 - 차량 빨간불 (red_light2)
