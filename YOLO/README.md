@@ -14,3 +14,5 @@
 - 횡단보도 신호등 (traffic_light2)
 - 횡단보도 초록불 (green_light2)
 - 횡단보도 빨간불 (red_light2)
+
+![traffic](https://user-images.githubusercontent.com/113752736/206138737-66bbb9d6-d5f6-426b-b683-e95d852d56e1.png)
